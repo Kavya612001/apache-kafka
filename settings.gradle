@@ -1,0 +1,3 @@
+rootProject.name = 'kafka-begineers-course'
+include 'kafka-basics'
+
